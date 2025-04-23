@@ -1,45 +1,113 @@
-# Hi there, I'm Travis Mark! 👋
+# 👋 Hi there, I'm Travis Mark!
 
-Welcome to my GitHub profile! I'm thrilled to have you here. As a passionate software developer, I love diving into code, creating innovative solutions, and continuously learning new things. Plus, I'm a huge anime aficionado and an ardent Messi supporter! 🌟
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Anime+%26+Soccer+Fan" alt="Typing SVG" />
+</div>
 
-## About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humble689&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=fff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Humble689&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=fff" alt="GitHub Stats" />
+</div>
 
-- **Name:** Travis Mark
-- **Location:** 🌍
-- **Profession:** Software Developer
-- **Interests:** Coding, Open Source, Artificial Intelligence, Web Development, Anime, Soccer (Messi Fan!)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Humble689&theme=radical&hide_border=true&background=0D1117&stroke=2196F3" alt="GitHub Streak" />
+</div>
 
-## Skills
+## 🚀 About Me
 
-- **Languages:** Python, C, JavaScript, HTML, CSS
-- **Frameworks:** React, Node.js, Django, Flask
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Databases:** MySQL, PostgreSQL, MongoDB
+I'm a passionate software developer who loves creating innovative solutions and diving deep into code. When I'm not coding, you'll find me watching anime or cheering for Messi! 
 
-## Projects
+- 🔭 Currently working on exciting web development projects
+- 🌱 Always learning new technologies and frameworks
+- ⚡ Fun fact: I can binge-watch anime for hours! 
+- 🎯 Goal: Contributing to impactful open-source projects
 
-Here are a few highlights of my work:
+## 🛠️ Tech Stack
 
-1. **Project One**: A web application built with React and Node.js that helps users manage their tasks efficiently.
-2. **Project Two**: A machine learning model trained to predict stock prices with high accuracy.
-3. **Project Three**: An open-source contribution to a popular library, enhancing its functionality and user experience.
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
 
-## GitHub Stats
+## 🏆 Featured Projects
 
-![Travis Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Humble689&show_icons=true&theme=radical)
+### 1. Task Management Web App
+A full-stack application built with React and Node.js for efficient task management.
+- React, Node.js, MongoDB
+- Real-time updates
+- User authentication
+- Responsive design
+- [View Project](https://github.com/Humble689/task-manager)
 
-## Fun Facts
+### 2. Stock Price Predictor
+Machine learning model for stock price prediction with high accuracy.
+- Python, TensorFlow
+- Real-time data processing
+- Interactive visualizations
+- RESTful API
+- [View Project](https://github.com/Humble689/stock-predictor)
 
-- **Anime:** I can binge-watch anime for hours! Some of my favorites are *Solo Leveling*, *One Punch Man*, and *Attack on Titan*.
-- **Soccer:** Lionel Messi is my all-time favorite soccer player. Watching him play is pure magic! ⚽
+### 3. Open Source Contributions
+Active contributor to various open-source projects, enhancing functionality and user experience.
+- Bug fixes and feature implementations
+- Documentation improvements
+- Code optimization
+- [View Contributions](https://github.com/Humble689?tab=repositories)
 
-## Contact Me
+## 🎯 Current Focus
 
-Feel free to reach out to me via:
+- 🔥 Exploring AI and Machine Learning
+- 🌐 Building scalable web applications
+- 📱 Learning mobile development
+- 🤝 Contributing to open-source projects
+- 🎨 Improving UI/UX design skills
 
-- **Email:** marktravis689@gmail.com
-- **Instagram:** [@iamhumble4real](https://www.instagram.com/iamhumble4real/)
+## 📚 Learning Journey
 
-Let's connect and collaborate on exciting projects!
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Humble689&theme=radical&hide_border=true&bg_color=0D1117&color=2196F3" alt="Contribution Graph" />
+</div>
 
-Thanks for visiting my profile! 😊
+## 🎮 Fun Facts
+
+- **Anime Favorites:** Solo Leveling, One Punch Man, Attack on Titan
+- **Soccer:** Die-hard Messi fan! ⚽
+- **Coding:** Love solving complex problems and building cool stuff
+- **Music:** Enjoy coding with lo-fi beats in the background
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="mailto:marktravis689@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/iamhumble4real">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/Lufene Mark Travis">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/travismark689">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Humble689&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Humble689?label=Followers&style=social" alt="GitHub Followers" />
+</div>
+
+*Thanks for visiting my profile! Let's connect and create something amazing together!* 😊 
+
+<div align="center">
+  <img src="https://github.com/Humble689/Humble689/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
