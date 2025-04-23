@@ -109,5 +109,5 @@ Active contributor to various open-source projects, enhancing functionality and 
 *Thanks for visiting my profile! Let's connect and create something amazing together!* 😊 
 
 <div align="center">
-  <img src="https://github.com/Humble689/.github-workflows-snake.yml/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Humble689/.github-workflows-snake.yml/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div> 
