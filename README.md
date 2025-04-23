@@ -110,4 +110,4 @@ Active contributor to various open-source projects, enhancing functionality and 
 
 <div align="center">
   <img src="https://github.com/Humble689/Humble689/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+</div> 
