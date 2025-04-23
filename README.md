@@ -5,12 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humble689&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=fff" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Humble689&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=fff" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Humble689&theme=radical&hide_border=true&background=0D1117&stroke=2196F3" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Humble689&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 🚀 About Me
@@ -109,5 +104,9 @@ Active contributor to various open-source projects, enhancing functionality and 
 *Thanks for visiting my profile! Let's connect and create something amazing together!* 😊 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Humble689/.github-workflows-snake.yml/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Humble689&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Humble689&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Humble689&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Humble689&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Humble689&theme=radical" alt="Productive Time" />
 </div> 
